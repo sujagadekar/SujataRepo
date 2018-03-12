@@ -13,7 +13,7 @@ public class Main {
 		
 		Circle obj = new Circle(5);
 		System.out.println(obj.radius);
-		Object o = new Object();
+		Object o1 = new Object();
 		
 		
 	}
